@@ -1,0 +1,2240 @@
+{
+  "Abomination": {
+    "card_id": 1,
+    "name": "Abomination",
+    "energy": 5,
+    "power": 9,
+    "pool": "Starter",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Absorbing Man": {
+    "card_id": 2,
+    "name": "Absorbing Man",
+    "energy": 4,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Adam Warlock": {
+    "card_id": 3,
+    "name": "Adam Warlock",
+    "energy": 2,
+    "power": 0,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Aero": {
+    "card_id": 4,
+    "name": "Aero",
+    "energy": 5,
+    "power": 8,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Agatha Harkness": {
+    "card_id": 5,
+    "name": "Agatha Harkness",
+    "energy": 6,
+    "power": 14,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Agent 13": {
+    "card_id": 6,
+    "name": "Agent 13",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "shield",
+      "on-reveal"
+    ]
+  },
+  "Agent Coulson": {
+    "card_id": 7,
+    "name": "Agent Coulson",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "America Chavez": {
+    "card_id": 9,
+    "name": "America Chavez",
+    "energy": 6,
+    "power": 9,
+    "pool": "Pool 1",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Angel": {
+    "card_id": 10,
+    "name": "Angel",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Angela": {
+    "card_id": 11,
+    "name": "Angela",
+    "energy": 2,
+    "power": 0,
+    "pool": "Pool 1",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Ant Man": {
+    "card_id": 13,
+    "name": "Ant Man",
+    "energy": 1,
+    "power": 1,
+    "pool": "Starter",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Apocalypse": {
+    "card_id": 14,
+    "name": "Apocalypse",
+    "energy": 6,
+    "power": 8,
+    "pool": "Pool 1",
+    "ability_type": [
+      "discard"
+    ]
+  },
+  "Armor": {
+    "card_id": 15,
+    "name": "Armor",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Arnim Zola": {
+    "card_id": 16,
+    "name": "Arnim Zola",
+    "energy": 6,
+    "power": 0,
+    "pool": "Pool 3",
+    "ability_type": [
+      "hydra",
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Attuma": {
+    "card_id": 17,
+    "name": "Attuma",
+    "energy": 4,
+    "power": 10,
+    "pool": "Pool 3",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Baron Mordo": {
+    "card_id": 18,
+    "name": "Baron Mordo",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "hydra",
+      "on-reveal"
+    ]
+  },
+  "Bast": {
+    "card_id": 19,
+    "name": "Bast",
+    "energy": 1,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Beast": {
+    "card_id": 20,
+    "name": "Beast",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Bishop": {
+    "card_id": 21,
+    "name": "Bishop",
+    "energy": 3,
+    "power": 1,
+    "pool": "Pool 1",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Black Bolt": {
+    "card_id": 22,
+    "name": "Black Bolt",
+    "energy": 5,
+    "power": 7,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Black Cat": {
+    "card_id": 23,
+    "name": "Black Cat",
+    "energy": 3,
+    "power": 7,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard"
+    ]
+  },
+  "Black Panther": {
+    "card_id": 25,
+    "name": "Black Panther",
+    "energy": 5,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Black Widow": {
+    "card_id": 26,
+    "name": "Black Widow",
+    "energy": 2,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "shield",
+      "on-reveal"
+    ]
+  },
+  "Blade": {
+    "card_id": 27,
+    "name": "Blade",
+    "energy": 1,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Blue Marvel": {
+    "card_id": 30,
+    "name": "Blue Marvel",
+    "energy": 5,
+    "power": 3,
+    "pool": "Starter",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Brood": {
+    "card_id": 31,
+    "name": "Brood",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Bucky Barnes": {
+    "card_id": 32,
+    "name": "Bucky Barnes",
+    "energy": 2,
+    "power": 1,
+    "pool": "Pool 2",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Cable": {
+    "card_id": 34,
+    "name": "Cable",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Captain America": {
+    "card_id": 35,
+    "name": "Captain America",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "shield",
+      "ongoing"
+    ]
+  },
+  "Captain Marvel": {
+    "card_id": 36,
+    "name": "Captain Marvel",
+    "energy": 5,
+    "power": 6,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Carnage": {
+    "card_id": 37,
+    "name": "Carnage",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Cerebro": {
+    "card_id": 38,
+    "name": "Cerebro",
+    "energy": 3,
+    "power": 0,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Cloak": {
+    "card_id": 39,
+    "name": "Cloak",
+    "energy": 2,
+    "power": 4,
+    "pool": "Pool 2",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Colleen Wing": {
+    "card_id": 40,
+    "name": "Colleen Wing",
+    "energy": 2,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Colossus": {
+    "card_id": 41,
+    "name": "Colossus",
+    "energy": 2,
+    "power": 3,
+    "pool": "Starter",
+    "ability_type": [
+      "destroy",
+      "move",
+      "ongoing"
+    ]
+  },
+  "Cosmo": {
+    "card_id": 42,
+    "name": "Cosmo",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Crossbones": {
+    "card_id": 43,
+    "name": "Crossbones",
+    "energy": 4,
+    "power": 8,
+    "pool": "Pool 3",
+    "ability_type": [
+      "hydra"
+    ]
+  },
+  "Crystal": {
+    "card_id": 44,
+    "name": "Crystal",
+    "energy": 4,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Cyclops": {
+    "card_id": 45,
+    "name": "Cyclops",
+    "energy": 3,
+    "power": 4,
+    "pool": "Starter",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Dagger": {
+    "card_id": 46,
+    "name": "Dagger",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Daredevil": {
+    "card_id": 48,
+    "name": "Daredevil",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Darkhawk": {
+    "card_id": 49,
+    "name": "Darkhawk",
+    "energy": 4,
+    "power": 0,
+    "pool": "Pool 4",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Dazzler": {
+    "card_id": 50,
+    "name": "Dazzler",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Deadpool": {
+    "card_id": 51,
+    "name": "Deadpool",
+    "energy": 1,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Death": {
+    "card_id": 52,
+    "name": "Death",
+    "energy": 8,
+    "power": 12,
+    "pool": "Pool 3",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Deathlok": {
+    "card_id": 53,
+    "name": "Deathlok",
+    "energy": 3,
+    "power": 5,
+    "pool": "Pool 1",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Debrii": {
+    "card_id": 54,
+    "name": "Debrii",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Destroyer": {
+    "card_id": 55,
+    "name": "Destroyer",
+    "energy": 6,
+    "power": 15,
+    "pool": "Pool 3",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Devil Dinosaur": {
+    "card_id": 56,
+    "name": "Devil Dinosaur",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Doctor Doom": {
+    "card_id": 57,
+    "name": "Doctor Doom",
+    "energy": 6,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Doctor Octopus": {
+    "card_id": 58,
+    "name": "Doctor Octopus",
+    "energy": 5,
+    "power": 10,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Doctor Strange": {
+    "card_id": 59,
+    "name": "Doctor Strange",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Domino": {
+    "card_id": 60,
+    "name": "Domino",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Dracula": {
+    "card_id": 62,
+    "name": "Dracula",
+    "energy": 4,
+    "power": 0,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard"
+    ]
+  },
+  "Drax": {
+    "card_id": 63,
+    "name": "Drax",
+    "energy": 4,
+    "power": 6,
+    "pool": "Pool 3",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Ebony Maw": {
+    "card_id": 64,
+    "name": "Ebony Maw",
+    "energy": 1,
+    "power": 7,
+    "pool": "Pool 2",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Electro": {
+    "card_id": 66,
+    "name": "Electro",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Elektra": {
+    "card_id": 67,
+    "name": "Elektra",
+    "energy": 1,
+    "power": 1,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Enchantress": {
+    "card_id": 69,
+    "name": "Enchantress",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 1",
+    "ability_type": [
+      "move",
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Falcon": {
+    "card_id": 70,
+    "name": "Falcon",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Forge": {
+    "card_id": 72,
+    "name": "Forge",
+    "energy": 2,
+    "power": 1,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Galactus": {
+    "card_id": 73,
+    "name": "Galactus",
+    "energy": 6,
+    "power": 7,
+    "pool": "Pool 5",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Gambit": {
+    "card_id": 74,
+    "name": "Gambit",
+    "energy": 3,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "destroy",
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Gamora": {
+    "card_id": 75,
+    "name": "Gamora",
+    "energy": 5,
+    "power": 7,
+    "pool": "Starter",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Ghost": {
+    "card_id": 76,
+    "name": "Ghost",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Ghost Rider": {
+    "card_id": 77,
+    "name": "Ghost Rider",
+    "energy": 4,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Ghost-Spider": {
+    "card_id": 78,
+    "name": "Ghost-Spider",
+    "energy": 2,
+    "power": 3,
+    "pool": "Season Pass",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Giganto": {
+    "card_id": 79,
+    "name": "Giganto",
+    "energy": 6,
+    "power": 14,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Goose": {
+    "card_id": 82,
+    "name": "Goose",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Green Goblin": {
+    "card_id": 84,
+    "name": "Green Goblin",
+    "energy": 3,
+    "power": -3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Groot": {
+    "card_id": 85,
+    "name": "Groot",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 1",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Hawkeye": {
+    "card_id": 87,
+    "name": "Hawkeye",
+    "energy": 1,
+    "power": 1,
+    "pool": "Starter",
+    "ability_type": [
+      "shield",
+      "on-reveal"
+    ]
+  },
+  "Hazmat": {
+    "card_id": 88,
+    "name": "Hazmat",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Heimdall": {
+    "card_id": 89,
+    "name": "Heimdall",
+    "energy": 6,
+    "power": 8,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Hela": {
+    "card_id": 90,
+    "name": "Hela",
+    "energy": 6,
+    "power": 6,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Helicarrier": {
+    "card_id": 91,
+    "name": "Helicarrier",
+    "energy": 6,
+    "power": 10,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard"
+    ]
+  },
+  "Hellcow": {
+    "card_id": 92,
+    "name": "Hellcow",
+    "energy": 4,
+    "power": 6,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "High Evolutionary": {
+    "card_id": 93,
+    "name": "High Evolutionary",
+    "energy": 4,
+    "power": 4,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Hit Monkey": {
+    "card_id": 94,
+    "name": "Hit Monkey",
+    "energy": 2,
+    "power": 0,
+    "pool": "Pool 5",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Hobgoblin": {
+    "card_id": 95,
+    "name": "Hobgoblin",
+    "energy": 5,
+    "power": -8,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Howard The Duck": {
+    "card_id": 96,
+    "name": "Howard The Duck",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Hulk": {
+    "card_id": 97,
+    "name": "Hulk",
+    "energy": 6,
+    "power": 12,
+    "pool": "Starter",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Hulkbuster": {
+    "card_id": 98,
+    "name": "Hulkbuster",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Human Torch": {
+    "card_id": 99,
+    "name": "Human Torch",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Iceman": {
+    "card_id": 100,
+    "name": "Iceman",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Invisible Woman": {
+    "card_id": 101,
+    "name": "Invisible Woman",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Iron Fist": {
+    "card_id": 102,
+    "name": "Iron Fist",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Iron Lad": {
+    "card_id": 103,
+    "name": "Iron Lad",
+    "energy": 4,
+    "power": 6,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Iron Man": {
+    "card_id": 104,
+    "name": "Iron Man",
+    "energy": 5,
+    "power": 0,
+    "pool": "Starter",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Ironheart": {
+    "card_id": 105,
+    "name": "Ironheart",
+    "energy": 3,
+    "power": 0,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Jane Foster Mighty Thor": {
+    "card_id": 107,
+    "name": "Jane Foster Mighty Thor",
+    "energy": 5,
+    "power": 8,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Jeff The Baby Land Shark": {
+    "card_id": 109,
+    "name": "Jeff The Baby Land Shark",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Jessica Jones": {
+    "card_id": 110,
+    "name": "Jessica Jones",
+    "energy": 4,
+    "power": 4,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Jubilee": {
+    "card_id": 111,
+    "name": "Jubilee",
+    "energy": 4,
+    "power": 1,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Juggernaut": {
+    "card_id": 112,
+    "name": "Juggernaut",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Ka-Zar": {
+    "card_id": 113,
+    "name": "Ka-Zar",
+    "energy": 4,
+    "power": 4,
+    "pool": "Starter",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Kang": {
+    "card_id": 114,
+    "name": "Kang",
+    "energy": 5,
+    "power": 0,
+    "pool": "Pool 5",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Killmonger": {
+    "card_id": 115,
+    "name": "Killmonger",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Kingpin": {
+    "card_id": 117,
+    "name": "Kingpin",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Kitty Pryde": {
+    "card_id": 118,
+    "name": "Kitty Pryde",
+    "energy": 1,
+    "power": 0,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Klaw": {
+    "card_id": 119,
+    "name": "Klaw",
+    "energy": 5,
+    "power": 4,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Knull": {
+    "card_id": 120,
+    "name": "Knull",
+    "energy": 6,
+    "power": 0,
+    "pool": "Pool 4",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Korg": {
+    "card_id": 121,
+    "name": "Korg",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Kraven": {
+    "card_id": 122,
+    "name": "Kraven",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Lady Sif": {
+    "card_id": 124,
+    "name": "Lady Sif",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 1",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Leader": {
+    "card_id": 125,
+    "name": "Leader",
+    "energy": 6,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Leech": {
+    "card_id": 126,
+    "name": "Leech",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Lizard": {
+    "card_id": 128,
+    "name": "Lizard",
+    "energy": 2,
+    "power": 5,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Lockjaw": {
+    "card_id": 129,
+    "name": "Lockjaw",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Luke Cage": {
+    "card_id": 131,
+    "name": "Luke Cage",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "M'Baku": {
+    "card_id": 132,
+    "name": "M'Baku",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Magik": {
+    "card_id": 133,
+    "name": "Magik",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Magneto": {
+    "card_id": 134,
+    "name": "Magneto",
+    "energy": 6,
+    "power": 12,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Mantis": {
+    "card_id": 136,
+    "name": "Mantis",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Maria Hill": {
+    "card_id": 137,
+    "name": "Maria Hill",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Master Mold": {
+    "card_id": 138,
+    "name": "Master Mold",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 4",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Maximus": {
+    "card_id": 139,
+    "name": "Maximus",
+    "energy": 3,
+    "power": 7,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Medusa": {
+    "card_id": 140,
+    "name": "Medusa",
+    "energy": 2,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Miles Morales": {
+    "card_id": 142,
+    "name": "Miles Morales",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Mister Fantastic": {
+    "card_id": 144,
+    "name": "Mister Fantastic",
+    "energy": 3,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Mister Negative": {
+    "card_id": 145,
+    "name": "Mister Negative",
+    "energy": 4,
+    "power": -1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Mister Sinister": {
+    "card_id": 146,
+    "name": "Mister Sinister",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Misty Knight": {
+    "card_id": 147,
+    "name": "Misty Knight",
+    "energy": 1,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Modok": {
+    "card_id": 149,
+    "name": "Modok",
+    "energy": 5,
+    "power": 8,
+    "pool": "Pool 4",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Mojo": {
+    "card_id": 150,
+    "name": "Mojo",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Moon Girl": {
+    "card_id": 151,
+    "name": "Moon Girl",
+    "energy": 4,
+    "power": 4,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Moon Knight": {
+    "card_id": 152,
+    "name": "Moon Knight",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Morbius": {
+    "card_id": 153,
+    "name": "Morbius",
+    "energy": 2,
+    "power": 0,
+    "pool": "Pool 2",
+    "ability_type": [
+      "discard",
+      "ongoing"
+    ]
+  },
+  "Morph": {
+    "card_id": 154,
+    "name": "Morph",
+    "energy": 3,
+    "power": 0,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Multiple Man": {
+    "card_id": 156,
+    "name": "Multiple Man",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Mysterio": {
+    "card_id": 157,
+    "name": "Mysterio",
+    "energy": 2,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Mystique": {
+    "card_id": 158,
+    "name": "Mystique",
+    "energy": 3,
+    "power": 0,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Nakia": {
+    "card_id": 159,
+    "name": "Nakia",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Namor": {
+    "card_id": 160,
+    "name": "Namor",
+    "energy": 4,
+    "power": 6,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Nebula": {
+    "card_id": 161,
+    "name": "Nebula",
+    "energy": 1,
+    "power": 1,
+    "pool": "Pool 5",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Negasonic Teenage Warhead": {
+    "card_id": 162,
+    "name": "Negasonic Teenage Warhead",
+    "energy": 3,
+    "power": 5,
+    "pool": "Pool 4",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Nick Fury": {
+    "card_id": 163,
+    "name": "Nick Fury",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "shield",
+      "on-reveal"
+    ]
+  },
+  "Nightcrawler": {
+    "card_id": 165,
+    "name": "Nightcrawler",
+    "energy": 1,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Nimrod": {
+    "card_id": 166,
+    "name": "Nimrod",
+    "energy": 5,
+    "power": 6,
+    "pool": "Pool 4",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Nova": {
+    "card_id": 167,
+    "name": "Nova",
+    "energy": 1,
+    "power": 1,
+    "pool": "Pool 1",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Odin": {
+    "card_id": 168,
+    "name": "Odin",
+    "energy": 6,
+    "power": 8,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Okoye": {
+    "card_id": 169,
+    "name": "Okoye",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Omega Red": {
+    "card_id": 170,
+    "name": "Omega Red",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Onslaught": {
+    "card_id": 171,
+    "name": "Onslaught",
+    "energy": 6,
+    "power": 7,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Orka": {
+    "card_id": 172,
+    "name": "Orka",
+    "energy": 6,
+    "power": 11,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Patriot": {
+    "card_id": 173,
+    "name": "Patriot",
+    "energy": 3,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing",
+      "no-ability"
+    ]
+  },
+  "Polaris": {
+    "card_id": 175,
+    "name": "Polaris",
+    "energy": 3,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "move",
+      "on-reveal"
+    ]
+  },
+  "Professor X": {
+    "card_id": 176,
+    "name": "Professor X",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Psylocke": {
+    "card_id": 177,
+    "name": "Psylocke",
+    "energy": 2,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Punisher": {
+    "card_id": 178,
+    "name": "Punisher",
+    "energy": 3,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Quake": {
+    "card_id": 179,
+    "name": "Quake",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "shield",
+      "on-reveal"
+    ]
+  },
+  "Quicksilver": {
+    "card_id": 180,
+    "name": "Quicksilver",
+    "energy": 1,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "hydra"
+    ]
+  },
+  "Quinjet": {
+    "card_id": 181,
+    "name": "Quinjet",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Red Skull": {
+    "card_id": 185,
+    "name": "Red Skull",
+    "energy": 5,
+    "power": 14,
+    "pool": "Pool 3",
+    "ability_type": [
+      "hydra",
+      "ongoing"
+    ]
+  },
+  "Rescue": {
+    "card_id": 186,
+    "name": "Rescue",
+    "energy": 4,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Rhino": {
+    "card_id": 187,
+    "name": "Rhino",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Rocket Raccoon": {
+    "card_id": 188,
+    "name": "Rocket Raccoon",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Rockslide": {
+    "card_id": 189,
+    "name": "Rockslide",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Rogue": {
+    "card_id": 190,
+    "name": "Rogue",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Ronan The Accuser": {
+    "card_id": 191,
+    "name": "Ronan The Accuser",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Sabretooth": {
+    "card_id": 192,
+    "name": "Sabretooth",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 2",
+    "ability_type": [
+      "destroy"
+    ]
+  },
+  "Sandman": {
+    "card_id": 193,
+    "name": "Sandman",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Sauron": {
+    "card_id": 194,
+    "name": "Sauron",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Scarlet Witch": {
+    "card_id": 195,
+    "name": "Scarlet Witch",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 1",
+    "ability_type": [
+      "hydra",
+      "on-reveal"
+    ]
+  },
+  "Scorpion": {
+    "card_id": 196,
+    "name": "Scorpion",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Sentinel": {
+    "card_id": 197,
+    "name": "Sentinel",
+    "energy": 2,
+    "power": 3,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Sentry": {
+    "card_id": 198,
+    "name": "Sentry",
+    "energy": 4,
+    "power": 10,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Sera": {
+    "card_id": 199,
+    "name": "Sera",
+    "energy": 5,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Shadow King": {
+    "card_id": 200,
+    "name": "Shadow King",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Shang-Chi": {
+    "card_id": 201,
+    "name": "Shang-Chi",
+    "energy": 4,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Shanna": {
+    "card_id": 202,
+    "name": "Shanna",
+    "energy": 4,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "discard",
+      "move"
+    ]
+  },
+  "She-Hulk": {
+    "card_id": 203,
+    "name": "She-Hulk",
+    "energy": 6,
+    "power": 9,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Shocker": {
+    "card_id": 204,
+    "name": "Shocker",
+    "energy": 2,
+    "power": 3,
+    "pool": "Starter",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Shuri": {
+    "card_id": 205,
+    "name": "Shuri",
+    "energy": 4,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Silver Surfer": {
+    "card_id": 209,
+    "name": "Silver Surfer",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Snowguard": {
+    "card_id": 210,
+    "name": "Snowguard",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 4",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Spectrum": {
+    "card_id": 211,
+    "name": "Spectrum",
+    "energy": 6,
+    "power": 5,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Spider-Man": {
+    "card_id": 213,
+    "name": "Spider-Man",
+    "energy": 5,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Spider-Woman": {
+    "card_id": 215,
+    "name": "Spider-Woman",
+    "energy": 5,
+    "power": 8,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Squirrel Girl": {
+    "card_id": 216,
+    "name": "Squirrel Girl",
+    "energy": 1,
+    "power": 1,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Star-Lord": {
+    "card_id": 217,
+    "name": "Star-Lord",
+    "energy": 2,
+    "power": 2,
+    "pool": "Starter",
+    "ability_type": [
+      "guardians-of-the-galaxy",
+      "on-reveal"
+    ]
+  },
+  "Stature": {
+    "card_id": 218,
+    "name": "Stature",
+    "energy": 5,
+    "power": 6,
+    "pool": "Pool 4",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Stegron": {
+    "card_id": 219,
+    "name": "Stegron",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 4",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Storm": {
+    "card_id": 220,
+    "name": "Storm",
+    "energy": 3,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Strong Guy": {
+    "card_id": 221,
+    "name": "Strong Guy",
+    "energy": 4,
+    "power": 4,
+    "pool": "Pool 1",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Sunspot": {
+    "card_id": 223,
+    "name": "Sunspot",
+    "energy": 1,
+    "power": 0,
+    "pool": "Pool 2",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Super-Skrull": {
+    "card_id": 224,
+    "name": "Super-Skrull",
+    "energy": 4,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Swarm": {
+    "card_id": 226,
+    "name": "Swarm",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "discard"
+    ]
+  },
+  "Sword Master": {
+    "card_id": 227,
+    "name": "Sword Master",
+    "energy": 3,
+    "power": 6,
+    "pool": "Pool 1",
+    "ability_type": [
+      "discard",
+      "on-reveal"
+    ]
+  },
+  "Taskmaster": {
+    "card_id": 228,
+    "name": "Taskmaster",
+    "energy": 5,
+    "power": 0,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Thanos": {
+    "card_id": 229,
+    "name": "Thanos",
+    "energy": 6,
+    "power": 10,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "The Collector": {
+    "card_id": 230,
+    "name": "The Collector",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 2",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "The Hood": {
+    "card_id": 231,
+    "name": "The Hood",
+    "energy": 1,
+    "power": -3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "The Infinaut": {
+    "card_id": 232,
+    "name": "The Infinaut",
+    "energy": 6,
+    "power": 20,
+    "pool": "Pool 2",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "The Living Tribunal": {
+    "card_id": 233,
+    "name": "The Living Tribunal",
+    "energy": 6,
+    "power": 6,
+    "pool": "Pool 5",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "The Thing": {
+    "card_id": 235,
+    "name": "The Thing",
+    "energy": 4,
+    "power": 6,
+    "pool": "Starter",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Thor": {
+    "card_id": 236,
+    "name": "Thor",
+    "energy": 3,
+    "power": 4,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Titania": {
+    "card_id": 237,
+    "name": "Titania",
+    "energy": 1,
+    "power": 5,
+    "pool": "Pool 3",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Typhoid Mary": {
+    "card_id": 239,
+    "name": "Typhoid Mary",
+    "energy": 4,
+    "power": 10,
+    "pool": "Pool 3",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Uatu The Watcher": {
+    "card_id": 240,
+    "name": "Uatu The Watcher",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Ultron": {
+    "card_id": 241,
+    "name": "Ultron",
+    "energy": 6,
+    "power": 8,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Valkyrie": {
+    "card_id": 243,
+    "name": "Valkyrie",
+    "energy": 5,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Venom": {
+    "card_id": 244,
+    "name": "Venom",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
+  "Viper": {
+    "card_id": 245,
+    "name": "Viper",
+    "energy": 2,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Vision": {
+    "card_id": 246,
+    "name": "Vision",
+    "energy": 5,
+    "power": 7,
+    "pool": "Pool 2",
+    "ability_type": [
+      "move"
+    ]
+  },
+  "Vulture": {
+    "card_id": 248,
+    "name": "Vulture",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 2",
+    "ability_type": [
+      "Other"
+    ]
+  },
+  "Warpath": {
+    "card_id": 250,
+    "name": "Warpath",
+    "energy": 4,
+    "power": 5,
+    "pool": "Pool 2",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Wasp": {
+    "card_id": 251,
+    "name": "Wasp",
+    "energy": 0,
+    "power": 1,
+    "pool": "Pool 3",
+    "ability_type": [
+      "no-ability"
+    ]
+  },
+  "Wave": {
+    "card_id": 252,
+    "name": "Wave",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "White Queen": {
+    "card_id": 253,
+    "name": "White Queen",
+    "energy": 4,
+    "power": 6,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "White Tiger": {
+    "card_id": 254,
+    "name": "White Tiger",
+    "energy": 5,
+    "power": 1,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Wolfsbane": {
+    "card_id": 256,
+    "name": "Wolfsbane",
+    "energy": 3,
+    "power": 1,
+    "pool": "Starter",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Wolverine": {
+    "card_id": 257,
+    "name": "Wolverine",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "destroy",
+      "discard"
+    ]
+  },
+  "Wong": {
+    "card_id": 258,
+    "name": "Wong",
+    "energy": 4,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal",
+      "ongoing"
+    ]
+  },
+  "Yellowjacket": {
+    "card_id": 260,
+    "name": "Yellowjacket",
+    "energy": 0,
+    "power": 2,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Yondu": {
+    "card_id": 262,
+    "name": "Yondu",
+    "energy": 1,
+    "power": 2,
+    "pool": "Pool 1",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
+  "Zabu": {
+    "card_id": 263,
+    "name": "Zabu",
+    "energy": 2,
+    "power": 2,
+    "pool": "Pool 4",
+    "ability_type": [
+      "ongoing"
+    ]
+  },
+  "Zero": {
+    "card_id": 264,
+    "name": "Zero",
+    "energy": 1,
+    "power": 3,
+    "pool": "Pool 3",
+    "ability_type": [
+      "on-reveal"
+    ]
+  }
+}
