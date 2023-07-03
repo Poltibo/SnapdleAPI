@@ -6,8 +6,8 @@ from typing import List
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
 
-from SnapdleAPI.exception import APIMessage, CardNotFoundException
-from SnapdleAPI.model import CardData, GuessAnswer
+from exception import APIMessage, CardNotFoundException
+from model import CardData, GuessAnswer
 
 
 def roll_card_of_the_day(card_pool):
@@ -24,7 +24,7 @@ Get card data and match pattern from
     """
 )
 
-file = open("SnapdleAPI/data/scrapped_cards_info.json")
+file = open("data/scrapped_cards_info.json")
 cards = json.load(file)
 
 # today = datetime.date.today()
