@@ -21,18 +21,11 @@ Get card data and match pattern from
 file = open("data/scrapped_cards_info.json")
 cards = json.load(file)
 
-app.mode = "auto"
-app.manual_seed = 0
-
 
 def roll_card_of_the_day(card_pool):
-    if app.mode == "manual":
-        random.seed(app.manual_seed)
-        return card_pool[random.choice(list(card_pool.keys()))]
-    else:
-        today = datetime.date.today()
-        random.seed(int(f"{today.year}{today.month}{today.day}"))
-        return card_pool[random.choice(list(card_pool.keys()))]
+    today = datetime.date.today()
+    random.seed(int(f"{today.year}{today.month}{today.day}"))
+    return card_pool[random.choice(list(card_pool.keys()))]
 
 
 @app.get(
@@ -124,23 +117,23 @@ def get_card_of_the_day_data():
     return list(cards.keys())
 
 
-@app.post(
-    "/seed/set_manual/{seed_int}",
-    tags=["seed"]
-)
-def set_manual_seed(seed_int: str):
-    app.mode = "manual"
-    app.manual_seed = int(seed_int)
-    return seed_int
-
-
-@app.post(
-    "/seed/reset",
-    tags=["seed"]
-)
-def set_manual_seed():
-    app.mode = "auto"
-    return "Reset"
+# @app.post(
+#     "/seed/set_manual/{seed_int}",
+#     tags=["seed"]
+# )
+# def set_manual_seed(seed_int: str):
+#     app.mode = "manual"
+#     app.manual_seed = int(seed_int)
+#     return seed_int
+#
+#
+# @app.post(
+#     "/seed/reset",
+#     tags=["seed"]
+# )
+# def set_manual_seed():
+#     app.mode = "auto"
+#     return "Reset"
 
 
 @app.exception_handler(CardNotFoundException)
