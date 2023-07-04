@@ -148,7 +148,11 @@ def set_manual_seed(seed_int: str):
 )
 def set_manual_seed():
     global manual_seed
+    card_before = roll_card_of_the_day(cards)
     manual_seed = None
+    card_after = roll_card_of_the_day(cards)
+    while card_after == card_before:
+        card_after = roll_card_of_the_day(cards)
     return "Reset"
 
 
