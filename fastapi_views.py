@@ -20,11 +20,13 @@ Get card data and match pattern from
 
 file = open("data/scrapped_cards_info.json")
 cards = json.load(file)
-app.manual_seed = None
+
+app.mode = "auto"
+app.manual_seed = 0
 
 
 def roll_card_of_the_day(card_pool):
-    if app.manual_seed:
+    if app.mode == "manual":
         random.seed(app.manual_seed)
         return card_pool[random.choice(list(card_pool.keys()))]
     else:
@@ -127,6 +129,7 @@ def get_card_of_the_day_data():
     tags=["seed"]
 )
 def set_manual_seed(seed_int: str):
+    app.mode = "manual"
     app.manual_seed = int(seed_int)
     return seed_int
 
@@ -136,7 +139,7 @@ def set_manual_seed(seed_int: str):
     tags=["seed"]
 )
 def set_manual_seed():
-    app.manual_seed = None
+    app.mode = "auto"
     return "Reset"
 
 
