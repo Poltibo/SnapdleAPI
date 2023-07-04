@@ -11,9 +11,13 @@ from model import CardData, GuessAnswer
 
 
 def roll_card_of_the_day(card_pool):
-    today = datetime.date.today()
-    random.seed(int(f"{today.year}{today.month}{today.day}"))
-    return card_pool[random.choice(list(card_pool.keys()))]
+    if manual_seed:
+        random.seed(manual_seed)
+        return card_pool[random.choice(list(card_pool.keys()))]
+    else:
+        today = datetime.date.today()
+        random.seed(int(f"{today.year}{today.month}{today.day}"))
+        return card_pool[random.choice(list(card_pool.keys()))]
 
 
 app = FastAPI(
@@ -26,6 +30,7 @@ Get card data and match pattern from
 
 file = open("data/scrapped_cards_info.json")
 cards = json.load(file)
+manual_seed = None
 
 # today = datetime.date.today()
 # random.seed(int(f"{today.year}{today.month}{today.day}"))
@@ -119,6 +124,32 @@ def get_card_of_the_day_data():
 )
 def get_card_of_the_day_data():
     return list(cards.keys())
+
+
+@app.get(
+    "/seed/set_manual/{seed_int}",
+    response_model=int,
+    response_description="Set manual seed for choosing card of the day",
+    status_code=200,
+    tags=["seed"]
+)
+def set_manual_seed(seed_int: str):
+    global manual_seed
+    manual_seed = int(seed_int)
+    return seed_int
+
+
+@app.get(
+    "/seed/reset",
+    response_model=str,
+    response_description="Set manual seed for choosing card of the day",
+    status_code=200,
+    tags=["seed"]
+)
+def set_manual_seed():
+    global manual_seed
+    manual_seed = None
+    return "Reset"
 
 
 @app.exception_handler(CardNotFoundException)
