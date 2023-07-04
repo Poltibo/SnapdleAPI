@@ -10,16 +10,6 @@ from exception import APIMessage, CardNotFoundException
 from model import CardData, GuessAnswer
 
 
-def roll_card_of_the_day(card_pool):
-    if manual_seed:
-        random.seed(manual_seed)
-        return card_pool[random.choice(list(card_pool.keys()))]
-    else:
-        today = datetime.date.today()
-        random.seed(int(f"{today.year}{today.month}{today.day}"))
-        return card_pool[random.choice(list(card_pool.keys()))]
-
-
 app = FastAPI(
     title="SnapdleAPI",
     version="0.0.1",
@@ -30,11 +20,17 @@ Get card data and match pattern from
 
 file = open("data/scrapped_cards_info.json")
 cards = json.load(file)
-manual_seed = None
+app.manual_seed = None
 
-# today = datetime.date.today()
-# random.seed(int(f"{today.year}{today.month}{today.day}"))
-# card_of_the_day = cards[random.choice(list(cards.keys()))]
+
+def roll_card_of_the_day(card_pool):
+    if app.manual_seed:
+        random.seed(app.manual_seed)
+        return card_pool[random.choice(list(card_pool.keys()))]
+    else:
+        today = datetime.date.today()
+        random.seed(int(f"{today.year}{today.month}{today.day}"))
+        return card_pool[random.choice(list(card_pool.keys()))]
 
 
 @app.get(
@@ -134,8 +130,7 @@ def get_card_of_the_day_data():
     tags=["seed"]
 )
 def set_manual_seed(seed_int: str):
-    global manual_seed
-    manual_seed = int(seed_int)
+    app.manual_seed = int(seed_int)
     return seed_int
 
 
@@ -147,12 +142,7 @@ def set_manual_seed(seed_int: str):
     tags=["seed"]
 )
 def set_manual_seed():
-    global manual_seed
-    card_before = roll_card_of_the_day(cards)
-    manual_seed = None
-    card_after = roll_card_of_the_day(cards)
-    while card_after == card_before:
-        card_after = roll_card_of_the_day(cards)
+    app.manual_seed = None
     return "Reset"
 
 
