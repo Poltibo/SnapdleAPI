@@ -122,11 +122,8 @@ def get_card_of_the_day_data():
     return list(cards.keys())
 
 
-@app.get(
+@app.post(
     "/seed/set_manual/{seed_int}",
-    response_model=int,
-    response_description="Set manual seed for choosing card of the day",
-    status_code=200,
     tags=["seed"]
 )
 def set_manual_seed(seed_int: str):
@@ -134,11 +131,8 @@ def set_manual_seed(seed_int: str):
     return seed_int
 
 
-@app.get(
+@app.post(
     "/seed/reset",
-    response_model=str,
-    response_description="Set manual seed for choosing card of the day",
-    status_code=200,
     tags=["seed"]
 )
 def set_manual_seed():
