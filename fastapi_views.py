@@ -29,6 +29,14 @@ def roll_card_of_the_day(card_pool):
 
 
 @app.get(
+    "/",
+    response_model=str,
+)
+def get_today_date():
+    return f"today is {datetime.date.today()}"
+
+
+@app.get(
     "/cards/{card_name}/data",
     response_model=CardData,
     response_description="Get the data for the card",
