@@ -1,5 +1,6 @@
 import json
-import datetime
+from datetime import datetime
+import pytz
 import random
 from typing import List
 
@@ -9,6 +10,7 @@ from fastapi.responses import JSONResponse
 from exception import APIMessage, CardNotFoundException
 from model import CardData, GuessAnswer
 
+paris_timezone = pytz.timezone("Europe/Paris")
 
 app = FastAPI(
     title="SnapdleAPI",
@@ -23,7 +25,7 @@ cards = json.load(file)
 
 
 def roll_card_of_the_day(card_pool):
-    today = datetime.date.today()
+    today = datetime.now(tz=paris_timezone).date()
     random.seed(int(f"{today.year}{today.month}{today.day}"))
     return card_pool[random.choice(list(card_pool.keys()))]
 
@@ -33,7 +35,7 @@ def roll_card_of_the_day(card_pool):
     response_model=str,
 )
 def get_today_date():
-    return f"today is {datetime.date.today()}"
+    return f"Today is {datetime.now(tz=paris_timezone).date()}"
 
 
 @app.get(
