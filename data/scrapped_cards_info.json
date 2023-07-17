@@ -547,7 +547,7 @@
     ]
   },
   "Dracula": {
-    "card_id": 62,
+    "card_id": 61,
     "name": "Dracula",
     "energy": 4,
     "power": 0,
@@ -557,7 +557,7 @@
     ]
   },
   "Drax": {
-    "card_id": 63,
+    "card_id": 62,
     "name": "Drax",
     "energy": 4,
     "power": 6,
@@ -568,7 +568,7 @@
     ]
   },
   "Ebony Maw": {
-    "card_id": 64,
+    "card_id": 63,
     "name": "Ebony Maw",
     "energy": 1,
     "power": 7,
@@ -578,7 +578,7 @@
     ]
   },
   "Electro": {
-    "card_id": 66,
+    "card_id": 65,
     "name": "Electro",
     "energy": 3,
     "power": 2,
@@ -589,7 +589,7 @@
     ]
   },
   "Elektra": {
-    "card_id": 67,
+    "card_id": 66,
     "name": "Elektra",
     "energy": 1,
     "power": 1,
@@ -599,7 +599,7 @@
     ]
   },
   "Enchantress": {
-    "card_id": 69,
+    "card_id": 68,
     "name": "Enchantress",
     "energy": 4,
     "power": 5,
@@ -611,7 +611,7 @@
     ]
   },
   "Falcon": {
-    "card_id": 70,
+    "card_id": 69,
     "name": "Falcon",
     "energy": 2,
     "power": 3,
@@ -621,7 +621,7 @@
     ]
   },
   "Forge": {
-    "card_id": 72,
+    "card_id": 71,
     "name": "Forge",
     "energy": 2,
     "power": 1,
@@ -631,7 +631,7 @@
     ]
   },
   "Galactus": {
-    "card_id": 73,
+    "card_id": 72,
     "name": "Galactus",
     "energy": 6,
     "power": 7,
@@ -642,10 +642,10 @@
     ]
   },
   "Gambit": {
-    "card_id": 74,
+    "card_id": 73,
     "name": "Gambit",
     "energy": 3,
-    "power": 1,
+    "power": 3,
     "pool": "Pool 3",
     "ability_type": [
       "destroy",
@@ -654,7 +654,7 @@
     ]
   },
   "Gamora": {
-    "card_id": 75,
+    "card_id": 74,
     "name": "Gamora",
     "energy": 5,
     "power": 7,
@@ -665,7 +665,7 @@
     ]
   },
   "Ghost": {
-    "card_id": 76,
+    "card_id": 75,
     "name": "Ghost",
     "energy": 1,
     "power": 2,
@@ -675,7 +675,7 @@
     ]
   },
   "Ghost Rider": {
-    "card_id": 77,
+    "card_id": 76,
     "name": "Ghost Rider",
     "energy": 4,
     "power": 3,
@@ -686,18 +686,18 @@
     ]
   },
   "Ghost-Spider": {
-    "card_id": 78,
+    "card_id": 77,
     "name": "Ghost-Spider",
     "energy": 2,
     "power": 3,
-    "pool": "Season Pass",
+    "pool": "Pool 5",
     "ability_type": [
       "move",
       "on-reveal"
     ]
   },
   "Giganto": {
-    "card_id": 79,
+    "card_id": 78,
     "name": "Giganto",
     "energy": 6,
     "power": 14,
@@ -707,7 +707,7 @@
     ]
   },
   "Goose": {
-    "card_id": 82,
+    "card_id": 81,
     "name": "Goose",
     "energy": 2,
     "power": 2,
@@ -717,7 +717,7 @@
     ]
   },
   "Green Goblin": {
-    "card_id": 84,
+    "card_id": 83,
     "name": "Green Goblin",
     "energy": 3,
     "power": -3,
@@ -727,7 +727,7 @@
     ]
   },
   "Groot": {
-    "card_id": 85,
+    "card_id": 84,
     "name": "Groot",
     "energy": 3,
     "power": 4,
@@ -738,7 +738,7 @@
     ]
   },
   "Hawkeye": {
-    "card_id": 87,
+    "card_id": 86,
     "name": "Hawkeye",
     "energy": 1,
     "power": 1,
@@ -749,7 +749,7 @@
     ]
   },
   "Hazmat": {
-    "card_id": 88,
+    "card_id": 87,
     "name": "Hazmat",
     "energy": 2,
     "power": 2,
@@ -759,7 +759,7 @@
     ]
   },
   "Heimdall": {
-    "card_id": 89,
+    "card_id": 88,
     "name": "Heimdall",
     "energy": 6,
     "power": 8,
@@ -769,7 +769,7 @@
     ]
   },
   "Hela": {
-    "card_id": 90,
+    "card_id": 89,
     "name": "Hela",
     "energy": 6,
     "power": 6,
@@ -780,7 +780,7 @@
     ]
   },
   "Helicarrier": {
-    "card_id": 91,
+    "card_id": 90,
     "name": "Helicarrier",
     "energy": 6,
     "power": 10,
@@ -790,7 +790,7 @@
     ]
   },
   "Hellcow": {
-    "card_id": 92,
+    "card_id": 91,
     "name": "Hellcow",
     "energy": 4,
     "power": 6,
@@ -801,7 +801,7 @@
     ]
   },
   "High Evolutionary": {
-    "card_id": 93,
+    "card_id": 92,
     "name": "High Evolutionary",
     "energy": 4,
     "power": 4,
@@ -811,7 +811,7 @@
     ]
   },
   "Hit Monkey": {
-    "card_id": 94,
+    "card_id": 93,
     "name": "Hit Monkey",
     "energy": 2,
     "power": 0,
@@ -821,7 +821,7 @@
     ]
   },
   "Hobgoblin": {
-    "card_id": 95,
+    "card_id": 94,
     "name": "Hobgoblin",
     "energy": 5,
     "power": -8,
@@ -831,7 +831,7 @@
     ]
   },
   "Howard The Duck": {
-    "card_id": 96,
+    "card_id": 95,
     "name": "Howard The Duck",
     "energy": 1,
     "power": 2,
@@ -841,7 +841,7 @@
     ]
   },
   "Hulk": {
-    "card_id": 97,
+    "card_id": 96,
     "name": "Hulk",
     "energy": 6,
     "power": 12,
@@ -851,7 +851,7 @@
     ]
   },
   "Hulkbuster": {
-    "card_id": 98,
+    "card_id": 97,
     "name": "Hulkbuster",
     "energy": 3,
     "power": 4,
@@ -861,7 +861,7 @@
     ]
   },
   "Human Torch": {
-    "card_id": 99,
+    "card_id": 98,
     "name": "Human Torch",
     "energy": 1,
     "power": 2,
@@ -871,7 +871,7 @@
     ]
   },
   "Iceman": {
-    "card_id": 100,
+    "card_id": 99,
     "name": "Iceman",
     "energy": 1,
     "power": 2,
@@ -881,7 +881,7 @@
     ]
   },
   "Invisible Woman": {
-    "card_id": 101,
+    "card_id": 100,
     "name": "Invisible Woman",
     "energy": 2,
     "power": 3,
@@ -891,7 +891,7 @@
     ]
   },
   "Iron Fist": {
-    "card_id": 102,
+    "card_id": 101,
     "name": "Iron Fist",
     "energy": 1,
     "power": 2,
@@ -902,7 +902,7 @@
     ]
   },
   "Iron Lad": {
-    "card_id": 103,
+    "card_id": 102,
     "name": "Iron Lad",
     "energy": 4,
     "power": 6,
@@ -912,7 +912,7 @@
     ]
   },
   "Iron Man": {
-    "card_id": 104,
+    "card_id": 103,
     "name": "Iron Man",
     "energy": 5,
     "power": 0,
@@ -922,7 +922,7 @@
     ]
   },
   "Ironheart": {
-    "card_id": 105,
+    "card_id": 104,
     "name": "Ironheart",
     "energy": 3,
     "power": 0,
@@ -932,7 +932,7 @@
     ]
   },
   "Jane Foster Mighty Thor": {
-    "card_id": 107,
+    "card_id": 106,
     "name": "Jane Foster Mighty Thor",
     "energy": 5,
     "power": 8,
@@ -941,8 +941,18 @@
       "on-reveal"
     ]
   },
+  "Jean Grey": {
+    "card_id": 107,
+    "name": "Jean Grey",
+    "energy": 3,
+    "power": 3,
+    "pool": "Pool 5",
+    "ability_type": [
+      "on-reveal"
+    ]
+  },
   "Jeff The Baby Land Shark": {
-    "card_id": 109,
+    "card_id": 108,
     "name": "Jeff The Baby Land Shark",
     "energy": 2,
     "power": 3,
@@ -952,7 +962,7 @@
     ]
   },
   "Jessica Jones": {
-    "card_id": 110,
+    "card_id": 109,
     "name": "Jessica Jones",
     "energy": 4,
     "power": 4,
@@ -962,7 +972,7 @@
     ]
   },
   "Jubilee": {
-    "card_id": 111,
+    "card_id": 110,
     "name": "Jubilee",
     "energy": 4,
     "power": 1,
@@ -972,7 +982,7 @@
     ]
   },
   "Juggernaut": {
-    "card_id": 112,
+    "card_id": 111,
     "name": "Juggernaut",
     "energy": 3,
     "power": 3,
@@ -983,7 +993,7 @@
     ]
   },
   "Ka-Zar": {
-    "card_id": 113,
+    "card_id": 112,
     "name": "Ka-Zar",
     "energy": 4,
     "power": 4,
@@ -993,7 +1003,7 @@
     ]
   },
   "Kang": {
-    "card_id": 114,
+    "card_id": 113,
     "name": "Kang",
     "energy": 5,
     "power": 0,
@@ -1003,7 +1013,7 @@
     ]
   },
   "Killmonger": {
-    "card_id": 115,
+    "card_id": 114,
     "name": "Killmonger",
     "energy": 3,
     "power": 3,
@@ -1014,7 +1024,7 @@
     ]
   },
   "Kingpin": {
-    "card_id": 117,
+    "card_id": 116,
     "name": "Kingpin",
     "energy": 3,
     "power": 4,
@@ -1024,7 +1034,7 @@
     ]
   },
   "Kitty Pryde": {
-    "card_id": 118,
+    "card_id": 117,
     "name": "Kitty Pryde",
     "energy": 1,
     "power": 0,
@@ -1034,7 +1044,7 @@
     ]
   },
   "Klaw": {
-    "card_id": 119,
+    "card_id": 118,
     "name": "Klaw",
     "energy": 5,
     "power": 4,
@@ -1044,7 +1054,7 @@
     ]
   },
   "Knull": {
-    "card_id": 120,
+    "card_id": 119,
     "name": "Knull",
     "energy": 6,
     "power": 0,
@@ -1054,7 +1064,7 @@
     ]
   },
   "Korg": {
-    "card_id": 121,
+    "card_id": 120,
     "name": "Korg",
     "energy": 1,
     "power": 2,
@@ -1064,7 +1074,7 @@
     ]
   },
   "Kraven": {
-    "card_id": 122,
+    "card_id": 121,
     "name": "Kraven",
     "energy": 2,
     "power": 2,
@@ -1074,7 +1084,7 @@
     ]
   },
   "Lady Sif": {
-    "card_id": 124,
+    "card_id": 123,
     "name": "Lady Sif",
     "energy": 3,
     "power": 4,
@@ -1085,7 +1095,7 @@
     ]
   },
   "Leader": {
-    "card_id": 125,
+    "card_id": 124,
     "name": "Leader",
     "energy": 6,
     "power": 2,
@@ -1095,7 +1105,7 @@
     ]
   },
   "Leech": {
-    "card_id": 126,
+    "card_id": 125,
     "name": "Leech",
     "energy": 5,
     "power": 3,
@@ -1105,7 +1115,7 @@
     ]
   },
   "Lizard": {
-    "card_id": 128,
+    "card_id": 127,
     "name": "Lizard",
     "energy": 2,
     "power": 5,
@@ -1115,7 +1125,7 @@
     ]
   },
   "Lockjaw": {
-    "card_id": 129,
+    "card_id": 128,
     "name": "Lockjaw",
     "energy": 3,
     "power": 2,
@@ -1125,7 +1135,7 @@
     ]
   },
   "Luke Cage": {
-    "card_id": 131,
+    "card_id": 130,
     "name": "Luke Cage",
     "energy": 2,
     "power": 2,
@@ -1135,7 +1145,7 @@
     ]
   },
   "M'Baku": {
-    "card_id": 132,
+    "card_id": 131,
     "name": "M'Baku",
     "energy": 1,
     "power": 2,
@@ -1145,7 +1155,7 @@
     ]
   },
   "Magik": {
-    "card_id": 133,
+    "card_id": 132,
     "name": "Magik",
     "energy": 5,
     "power": 3,
@@ -1155,7 +1165,7 @@
     ]
   },
   "Magneto": {
-    "card_id": 134,
+    "card_id": 133,
     "name": "Magneto",
     "energy": 6,
     "power": 12,
@@ -1363,7 +1373,7 @@
     "card_id": 159,
     "name": "Nakia",
     "energy": 3,
-    "power": 2,
+    "power": 3,
     "pool": "Pool 2",
     "ability_type": [
       "on-reveal"
@@ -1412,7 +1422,7 @@
     ]
   },
   "Nightcrawler": {
-    "card_id": 165,
+    "card_id": 166,
     "name": "Nightcrawler",
     "energy": 1,
     "power": 2,
@@ -1422,7 +1432,7 @@
     ]
   },
   "Nimrod": {
-    "card_id": 166,
+    "card_id": 167,
     "name": "Nimrod",
     "energy": 5,
     "power": 6,
@@ -1432,7 +1442,7 @@
     ]
   },
   "Nova": {
-    "card_id": 167,
+    "card_id": 168,
     "name": "Nova",
     "energy": 1,
     "power": 1,
@@ -1442,7 +1452,7 @@
     ]
   },
   "Odin": {
-    "card_id": 168,
+    "card_id": 169,
     "name": "Odin",
     "energy": 6,
     "power": 8,
@@ -1452,7 +1462,7 @@
     ]
   },
   "Okoye": {
-    "card_id": 169,
+    "card_id": 170,
     "name": "Okoye",
     "energy": 2,
     "power": 2,
@@ -1462,7 +1472,7 @@
     ]
   },
   "Omega Red": {
-    "card_id": 170,
+    "card_id": 171,
     "name": "Omega Red",
     "energy": 4,
     "power": 5,
@@ -1472,7 +1482,7 @@
     ]
   },
   "Onslaught": {
-    "card_id": 171,
+    "card_id": 172,
     "name": "Onslaught",
     "energy": 6,
     "power": 7,
@@ -1482,7 +1492,7 @@
     ]
   },
   "Orka": {
-    "card_id": 172,
+    "card_id": 173,
     "name": "Orka",
     "energy": 6,
     "power": 11,
@@ -1492,7 +1502,7 @@
     ]
   },
   "Patriot": {
-    "card_id": 173,
+    "card_id": 174,
     "name": "Patriot",
     "energy": 3,
     "power": 1,
@@ -1832,6 +1842,16 @@
       "on-reveal"
     ]
   },
+  "Spider-Man 2099": {
+    "card_id": 214,
+    "name": "Spider-Man 2099",
+    "energy": 4,
+    "power": 6,
+    "pool": "Pool 4",
+    "ability_type": [
+      "Other"
+    ]
+  },
   "Spider-Woman": {
     "card_id": 215,
     "name": "Spider-Woman",
@@ -2004,6 +2024,17 @@
       "Other"
     ]
   },
+  "The Phoenix Force": {
+    "card_id": 234,
+    "name": "The Phoenix Force",
+    "energy": 5,
+    "power": 6,
+    "pool": "Season Pass",
+    "ability_type": [
+      "destroy",
+      "on-reveal"
+    ]
+  },
   "The Thing": {
     "card_id": 235,
     "name": "The Thing",
@@ -2146,7 +2177,7 @@
     ]
   },
   "White Queen": {
-    "card_id": 253,
+    "card_id": 254,
     "name": "White Queen",
     "energy": 4,
     "power": 6,
@@ -2156,7 +2187,7 @@
     ]
   },
   "White Tiger": {
-    "card_id": 254,
+    "card_id": 255,
     "name": "White Tiger",
     "energy": 5,
     "power": 1,
@@ -2166,7 +2197,7 @@
     ]
   },
   "Wolfsbane": {
-    "card_id": 256,
+    "card_id": 257,
     "name": "Wolfsbane",
     "energy": 3,
     "power": 1,
@@ -2176,7 +2207,7 @@
     ]
   },
   "Wolverine": {
-    "card_id": 257,
+    "card_id": 258,
     "name": "Wolverine",
     "energy": 2,
     "power": 2,
@@ -2187,7 +2218,7 @@
     ]
   },
   "Wong": {
-    "card_id": 258,
+    "card_id": 259,
     "name": "Wong",
     "energy": 4,
     "power": 2,
@@ -2198,7 +2229,7 @@
     ]
   },
   "Yellowjacket": {
-    "card_id": 260,
+    "card_id": 261,
     "name": "Yellowjacket",
     "energy": 0,
     "power": 2,
@@ -2208,7 +2239,7 @@
     ]
   },
   "Yondu": {
-    "card_id": 262,
+    "card_id": 263,
     "name": "Yondu",
     "energy": 1,
     "power": 2,
@@ -2218,7 +2249,7 @@
     ]
   },
   "Zabu": {
-    "card_id": 263,
+    "card_id": 264,
     "name": "Zabu",
     "energy": 2,
     "power": 2,
@@ -2228,7 +2259,7 @@
     ]
   },
   "Zero": {
-    "card_id": 264,
+    "card_id": 265,
     "name": "Zero",
     "energy": 1,
     "power": 3,
